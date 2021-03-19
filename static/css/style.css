@@ -1,0 +1,16 @@
+.table_title {
+    text-align: center;
+    alignment: center;
+    background-color: #DDDDDD;
+}
+
+.table_row {
+    text-align: center;
+    alignment: center;
+    background-color: #EEEEFF;
+}
+
+td, th {
+    padding: 3px;
+    border: 1px solid black;
+}
